@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Walk Through My Life
 
 You can use the [editor on GitHub](https://github.com/anikashahi/Coursera-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
